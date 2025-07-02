@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey, I'm Mahek Dudhale
 
-<!--
-**mahek-dudhale/mahek-dudhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python | Java | Data Science | Gen AI | Azure Certified (AZ-900)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me  
+🎓 Final-year Computer Science Engineering student at SIT, Pune  
+💡 Passionate about solving real-world problems using AI, ML, and Cloud  
+🔍 Currently building projects in Data Science, Gen AI, and Full Stack Web Development  
+
+---
+
+### 🛠️ Tech Stack  
+`Python` `Java` `SQL` `scikit-learn` `Pandas` `Power BI`  
+`ReactJS` `MongoDB` `Firebase` `TailwindCSS`  
+`Microsoft Azure` `Git` `GitHub`  
+
+---
+
+### 📌 Featured Projects
+
+#### 🔬 [Diabetes Prediction ML Project](https://github.com/mahek-dudhale/diabetes-prediction-ml)  
+> Used machine learning to predict diabetes using patient data.  
+> Logistic Regression & Random Forest | Achieved ~82% accuracy  
+> Built using Python, scikit-learn, and healthcare dataset
+
+---
+
+### 🤝 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahek-dudhale)  
+- 📧 mahekdudhale23@gmail.com  
