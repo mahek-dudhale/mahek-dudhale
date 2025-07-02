@@ -1,7 +1,7 @@
 <!-- Profile README for Mahek Dudhale -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey!+I'm+Mahek+Dudhale;Final+Year+CSE+Student;Data+Science+%7C+Gen+AI+%7C+Cloud;Let's+Build+Something+Awesome!+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&center=true&width=435&lines=Hey!+I'm+Mahek+Dudhale;Final+Year+CSE+@+SIT,+Pune;Data+Science+%7C+Cloud+%7C+Gen+AI+Learner;Microsoft+Azure+Certified+%F0%9F%8C%81;Curiously+Creating.+Always+Evolving+%F0%9F%94%8D" alt="Typing SVG" />
 </p>
 
 ---
