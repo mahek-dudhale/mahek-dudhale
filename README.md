@@ -100,17 +100,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<!-- Stylish Dark Theme Coding -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
-</p>
-
-<!-- Relaxed Woman Coding at Desk -->
-<p align="center">
-  <img src="https://media.giphy.com/media/Ke5J2vBSc0JXVBzSxG/giphy.gif" width="300" />
-</p>
-
-
 
 
 
