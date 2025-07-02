@@ -9,8 +9,8 @@
 ### 👩‍💻 About Me
 
 🎓 Final-year Computer Science Engineering student at SIT, Pune  
-🚀 Exploring Data Science, Generative AI, and Full Stack Development  
-☁️ Microsoft Certified (AZ-900) | Always curious, always building
+🚀 Learning Data Science, Cloud & Gen AI | Microsoft Azure Certified (AZ-900) 
+☁️Always curious, always building!!
 
 ---
 
