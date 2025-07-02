@@ -94,7 +94,8 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MFvxMNPzKyywMWyYEv/giphy.gif" width="220" />
+  <img src="https://media.giphy.com/media/UQZcY9WvWhe5dVnN5f/giphy.gif" width="300" />
 </p>
+
 
 
