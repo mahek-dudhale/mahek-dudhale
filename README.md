@@ -23,7 +23,7 @@
 ### 🛠️ My Tech Stack
 
 #### 🧠 Languages
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,sql" />
 </p>
 
