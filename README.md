@@ -22,12 +22,7 @@
 ☁️ Microsoft Azure Certified (AZ-900)  
 🔍 Curiously creating, constantly evolving
 
-</td>
-<td>
-  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="300"/>
-</td>
-</tr>
-</table>
+
 
 
 ---
