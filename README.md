@@ -28,17 +28,17 @@
 </p>
 
 #### ⚙️ Frameworks & Libraries
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,flask,tailwind" />
 </p>
 
 #### 🧰 Tools & Platforms
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 #### ☁️ Cloud & ML Stack
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=azure,firebase" />
   <img src="https://skillicons.dev/icons?i=pandas,numpy" />
 </p>
