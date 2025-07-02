@@ -1,18 +1,16 @@
 <!-- Profile README for Mahek Dudhale -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F97316&center=true&width=435&lines=Hey!+I'm+Mahek+Dudhale;Final+Year+CSE+@+SIT,+Pune;Data+Science+%7C+Cloud+%7C+Gen+AI+Learner;Microsoft+Azure+Certified+%F0%9F%8C%81;Curiously+Creating.+Always+Evolving+%F0%9F%94%8D" alt="Typing SVG" />
-</p>
+<h3 align="left">👋 Hi there, I'm <b>Mahek Dudhale</b></h3>
 
 ---
 
-### 👩‍💻 About Me
+### 🔍 About Me
 
-🎓 Final-year Computer Science Engineering student at SIT, Pune  
-🚀 Learning Data Science, Cloud & Gen AI | Microsoft Azure Certified (AZ-900) 
-☁️ Always curious, always building!!
+🎓 Final-year CSE @ SITS, Pune  
+🚀 Building in **Data Science**, **Cloud**, and **Generative AI**  
+☁️ Microsoft Azure Certified (AZ-900)  
+🔍 Curiously creating, constantly evolving
 
----
 
 ### 🛠️ Tech Stack
 
