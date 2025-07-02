@@ -22,10 +22,26 @@
 
 ### 🛠️ My Tech Stack
 
-### 🛠 Tech Stack
+#### 🧠 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,sql" />
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,react,nodejs,flask,mongodb,firebase,tailwind,sql,git,github,vscode,linux,azure,pandas,numpy&perline=8" />
+#### ⚙️ Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,tailwind" />
+</p>
+
+#### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+#### ☁️ Cloud & ML Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,firebase" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
 </p>
 
 
