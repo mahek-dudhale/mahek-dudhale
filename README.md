@@ -19,6 +19,11 @@
 - 🧠 I love solving real-world problems & building in public!! 
 
 ---
+🧠 Resume & JD Matcher (Coming Soon)
+AI-powered app to match resumes with job descriptions.
+React, Flask, spaCy, OpenRouter, LangChain
+
+---
 
 ### 🛠️ My Tech Stack
 
