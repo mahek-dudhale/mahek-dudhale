@@ -46,21 +46,6 @@
 
 ---
 
-### 📌 Projects
-
-- 🔬 [**Diabetes Prediction (ML)**](https://github.com/mahek-dudhale/diabetes-prediction-ml)  
-  Machine learning model to predict diabetes using healthcare dataset.  
-  <sub><i>Logistic Regression, Random Forest | Python, scikit-learn, Pandas</i></sub>
-
-- 🧠 **Resume & JD Matcher** (Coming Soon)  
-  AI-powered app to match resumes with job descriptions.  
-  <sub><i>React, Flask, spaCy, OpenRouter, LangChain</i></sub>
-
-- ☁️ **Azure + Power BI Dashboards** (Internship)  
-  Created 10+ dashboards for cloud-hosted business data.  
-  <sub><i>Microsoft Azure, Power BI</i></sub>
-
----
 
 ### 🏅 Certifications
 
