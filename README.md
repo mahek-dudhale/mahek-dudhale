@@ -94,5 +94,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xmbjFzM2RpM3R4ZDhjYmgzZXQ0djRrb2w4anR0NGtzbmR2ZXY4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IeRdg7C8X4ctLBbVdZ/giphy.gif" width="250" />
 </p>
+
