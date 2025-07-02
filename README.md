@@ -10,7 +10,7 @@
 
 🎓 Final-year Computer Science Engineering student at SIT, Pune  
 🚀 Learning Data Science, Cloud & Gen AI | Microsoft Azure Certified (AZ-900) 
-☁️Always curious, always building!!
+☁️ Always curious, always building!!
 
 ---
 
