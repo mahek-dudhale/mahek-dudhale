@@ -16,7 +16,7 @@
 - 🎓 Final-year Computer Science Engineering @ SITS, Pune  
 - 💡 Passionate about **Data Science**, **Cloud Computing**, and **Generative AI**  
 - ☁️ Microsoft Azure Certified (AZ-900)  
-- 🧠 I love solving real-world problems & building in public  
+- 🧠 I love solving real-world problems & building in public!! 
 
 ---
 
